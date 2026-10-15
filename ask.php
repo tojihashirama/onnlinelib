@@ -4,8 +4,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <title>Groq — ASTRON Offset Updater</title>
-  <link rel="stylesheet" href="/style.css?v=2">
+  <title>Groq — Astron Offset Updater</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 
 <body class="ask-page">
@@ -108,7 +108,7 @@
 
   </div>
 
-  <script src="/assets/js/ask.js?v=2"></script>
+  <script src="ask.js"></script>
 </body>
 
 </html>
